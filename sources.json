@@ -1,0 +1,26 @@
+{
+    "mkCli": {
+        "branch": "main",
+        "description": "Simple development environment cli generator for nix",
+        "homepage": null,
+        "owner": "cprussin",
+        "repo": "mkCli",
+        "rev": "3d356fd26d59dcfdccf47160e78f9389f150fc2c",
+        "sha256": "1d3cy916sayj00v0gqvb0w49kdy05w1nl3pl81f6rp7gr9k6svl1",
+        "type": "tarball",
+        "url": "https://github.com/cprussin/mkCli/archive/3d356fd26d59dcfdccf47160e78f9389f150fc2c.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "master",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "f8f5a30916e6829b862e25dcbb1ef58b32a5bbe9",
+        "sha256": "02nbbrfahwmipakrwr54j4bw8f92rvq5qd9zwx3226pfi9hzpbbi",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/f8f5a30916e6829b862e25dcbb1ef58b32a5bbe9.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}

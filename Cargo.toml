@@ -1,0 +1,10 @@
+[package]
+name = "test"
+version = "0.1.0"
+edition = "2021"
+authors = ["Connor Prussin <connor@prussin.net>"]
+description = "Test wayland with fltk-rs"
+license = "MIT"
+
+[dependencies]
+fltk = { version = "1.4.7", features = ["use-wayland"] }
